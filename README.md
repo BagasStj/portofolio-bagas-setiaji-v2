@@ -1,8 +1,5 @@
 # devfolio
 
-<a href="https://bagassetiaji.dev">
-  <img alt="devfolio" src="./public/preview.png" />
-</a>
 
 [![version](https://img.shields.io/badge/version-1.0.0-black)](https://github.com/BagasStj/portofolio-bagas-setiaji-v2)
 [![license](https://img.shields.io/github/license/BagasStj/portofolio-bagas-setiaji-v2?color=black)](https://github.com/BagasStj/portofolio-bagas-setiaji-v2/blob/main/LICENSE.md)
